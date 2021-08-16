@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Jihad Mahfouz
-- 👀 I’m a FrontEnd Web Developer
-- 🌱 I’m currently learning and mastering new frontend technologies
+- 👋 Hi, I’m **Jihad Mahfouz**,third year **Computer Science** student
+- 👀 I’m a **Junior FrontEnd Web Developer**, focusing on better UI Design, speed and UX of the website
+- 🌱 I’m currently learning and mastering new **frontend technologies**
 - 💞️ I’m looking to collaborate on github
 - 📫 You can reach me via email on jihadmahfouz8@gmail.com
 

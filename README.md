@@ -1,6 +1,6 @@
-- 👋 Hi, I’m **Jihad Mahfouz**,third year **Computer Science** student
-- 👀 I’m a **Data Scientist | Data Analyst**, focusing on directing business products,and accuracy of the prediction
-- 🌱 I’m currently learning and mastering new **Data Science Technologies**
+- 👋 Hi, I’m **Jihad Mahfouz**
+- 👀 Third year **Computer Science** student
+- 🌱 I’m currently learning and mastering new **Technologies**
 - 💞️ I’m looking to collaborate on github
 - 📫 You can reach me via email on jihadmahfouz8@gmail.com
 
